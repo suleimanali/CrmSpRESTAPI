@@ -1,0 +1,11 @@
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\obj\Debug\CreateSPSubsiteInCRM.csprojResolveAssemblyReference.cache
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\CreateSPSubsiteInCRM.dll
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\CreateSPSubsiteInCRM.pdb
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\obj\Debug\CreateSPSubsiteInCRM.dll
+C:\Users\suleiman\Documents\CRM_Blogpost\CreateSPSubsiteInCRM\CreateSPSubsiteInCRM\obj\Debug\CreateSPSubsiteInCRM.pdb
