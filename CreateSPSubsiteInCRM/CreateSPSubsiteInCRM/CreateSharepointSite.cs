@@ -20,7 +20,7 @@ namespace CreateSPSubsiteInCRM
             var restURL = siteUrl + "/_api/web/webs/add";
 
             var stringData = string.Concat("{'parameters': { '__metadata': { 'type': 'SP.WebCreationInformation' },",
-                "'Title': '" + siteName + "', 'Url': '" + siteName + "', 'WebTemplate': '{611CC7DA-4333-4781-BB67-4AD23D0AD267}#HuttonCRMProjectTemplate', 'UseSamePermissionsAsParentSite': true } }");
+                "'Title': '" + siteName + "', 'Url': '" + siteName + "', 'WebTemplate': 'siteTemplate', 'UseSamePermissionsAsParentSite': true } }");
 
             var endpointRequest = (HttpWebRequest)HttpWebRequest.Create(restURL);
             var spo = SpoAuthUtility.Create(spSite, _username, WebUtility.HtmlEncode(_password), false);
